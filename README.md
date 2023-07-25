@@ -1,0 +1,2 @@
+# Insurance
+Insurance factors identification.
